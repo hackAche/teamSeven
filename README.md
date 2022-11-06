@@ -11,4 +11,6 @@ A partir da entrada dos horários das aulas, quantidade de ônibus, capacidade d
 demanda por horário, local das paradas, e o trajeto da cada ônibus, pode-se obter o relatório informando o horário ideal de saída dos ônibus e a quantidade,
 assim como a posição de um determinado ônibus em tempo real.
 
+
 Utilizamos c++ com as bibiliotecas: <iostream>, <string>, <conio.h>, <vector>, <algorithm>, <Windows.h>
+Compatível com o sistema operacional 'Windows'.
